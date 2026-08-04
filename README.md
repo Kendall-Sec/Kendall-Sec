@@ -93,7 +93,7 @@ Documentation, methodologies, and technical write-ups from my path into SOC work
 - Landing a **SOC Analyst L1** role
 - Finishing the **TryHackMe SOC Level 1** path
 - Growing my portfolio with more investigation write-ups
-- Looking ahead: **Red Team / Penetration Testing**, working toward **OSCP**
+- Looking ahead: **Red Team / Penetration Testing**, working toward **eJPT**
 
 ---
 
