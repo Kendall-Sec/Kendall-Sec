@@ -46,6 +46,13 @@ Currently self-teaching and building toward a **SOC Analyst L1** role — workin
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Methodologies, Frameworks & Standards**
+
+![NIST](https://img.shields.io/badge/NIST-000000?style=for-the-badge&logo=nist&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white)
+![Pyramid of Pain](https://img.shields.io/badge/Pyramid_of_Pain-ED1C24?style=for-the-badge&logo=analytics&logoColor=white)
+![CIA Triad](https://img.shields.io/badge/CIA_Triad-00599C?style=for-the-badge&logo=shield&logoColor=white)
+
 ---
 
 ## 🏢 Experience
