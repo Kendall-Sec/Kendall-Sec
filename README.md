@@ -29,7 +29,9 @@ Currently self-teaching and building toward a **SOC Analyst L1** role — workin
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Brim](https://img.shields.io/badge/Brim-211A37?style=for-the-badge&logo=brim&logoColor=white)
+![NetworkMiner](https://img.shields.io/badge/NetworkMiner-2D3748?style=for-the-badge&logo=radar&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-ED1C24?style=for-the-badge&logo=deer&logoColor=white)
 
 **Systems & Networking**
 
@@ -37,12 +39,12 @@ Currently self-teaching and building toward a **SOC Analyst L1** role — workin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=for-the-badge&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-FCC624?style=for-the-badge&logo=systemd&logoColor=black)
 
 **Scripting & Workflow**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
