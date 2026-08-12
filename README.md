@@ -29,9 +29,9 @@ Currently self-teaching and building toward a **SOC Analyst L1** role — workin
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/WAZUH-0057B7?style=flat-square&logoColor=white)
-![Suricata](https://img.shields.io/badge/SURICATA-D0342C?style=flat-square&logoColor=white)
-![Sysmon](https://img.shields.io/badge/SYSMON-767676?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/WAZUH-0057B7?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/SURICATA-D0342C?style=for-the-badge&logoColor=white)
+![Sysmon](https://img.shields.io/badge/SYSMON-767676?style=for-the-badge&logoColor=white)
 
 **Systems & Networking**
 
