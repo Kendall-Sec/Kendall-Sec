@@ -100,7 +100,7 @@ Documentation, methodologies, and technical write-ups from my path into SOC work
 ## 📚 Currently Working Toward
 
 - Growing my portfolio with more investigation write-ups
-- Looking ahead: **Red Team / Penetration Testing**, working toward **eJPT**
+- Looking ahead: **Red Team / Penetration Testing**, working toward **OSCP+**
 
 ---
 
